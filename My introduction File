@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> My firsttime on Git</title>
+<head>
+<body>
+<h2> Checking It Out, how it looks like to be here. Please I am new here</h2>
+<p> Please come to my aid, I want to learn web development from my my wonderful colleagues on this open source forum...</p>
+<p id ="demo"></p>
+<script>
+<button onclick = "document.getElementById("demo").innerHTML()">My First Time Here</button>
+</script>
+</body>
+</html>
